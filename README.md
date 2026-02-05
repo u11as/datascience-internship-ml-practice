@@ -40,3 +40,31 @@ The goal of this task is to practice data preprocessing and basic machine learni
 ## Author
 Ullas
 Data Science Intern
+
+## Day-02
+# Data Science Internship – Day 02
+
+## Objective
+Continue improving the dataset and build stronger machine learning models with proper preprocessing and evaluation.
+
+## Work Done
+- Fixed data formatting issues (removed commas from Price column and converted to numeric)
+- Handled pandas warnings (SettingWithCopyWarning) using proper indexing
+- Performed additional data cleaning and validation
+- Applied StandardScaler for feature scaling
+- Split dataset into train and test sets
+- Trained Random Forest model
+- Evaluated performance using confusion matrix, accuracy score, and classification report
+- Saved model predictions to CSV file
+- Debugged multiple code errors and improved notebook structure
+
+## Files Included
+- day02_notebook.ipynb → updated model building steps
+- housing_prices_p2.csv → cleaned dataset
+- predictions_day02.csv → new predictions
+
+## Learning Outcome
+- Better understanding of preprocessing techniques
+- Learned importance of scaling before training models
+- Improved debugging skills
+- Gained hands-on experience with model evaluation metrics
