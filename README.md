@@ -1,5 +1,7 @@
 # datascience-internship-ml-practice
 Daily internship work and practice in Data Science and Machine Learning including data cleaning, preprocessing, exploratory data analysis, feature engineering, model building, and evaluation using Python, pandas, and scikit-learn.
+
+## Day-03
 # Data Science Internship – Day 01
 
 ## Project Title
@@ -68,3 +70,59 @@ Continue improving the dataset and build stronger machine learning models with p
 - Learned importance of scaling before training models
 - Improved debugging skills
 - Gained hands-on experience with model evaluation metrics
+
+
+## Day-03
+# Data Science Internship – Day 03
+
+## Objective
+To practice real-world machine learning workflows by working on multiple datasets and implementing both classification and regression models.
+
+## Work Done
+- Loaded and explored the Loan Prediction dataset and Car Price dataset
+- Performed data cleaning and preprocessing
+- Handled missing and inconsistent values
+- Encoded categorical features
+- Converted price columns to numeric format
+- Conducted feature selection
+- Split datasets into training and testing sets
+- Built classification models for loan approval prediction
+- Built regression models for car price prediction
+- Evaluated models using appropriate performance metrics
+- Generated predictions for both tasks
+
+## Skills Used
+- Python
+- Pandas
+- NumPy
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Scikit-learn
+- Classification and Regression Models
+- Model Evaluation
+- Jupyter Notebook
+
+## Learning / Outcomes
+- Understood the complete end-to-end machine learning pipeline
+- Gained experience handling real-world datasets
+- Improved data preprocessing and feature engineering skills
+- Learned the difference between classification and regression problems
+- Successfully trained and evaluated multiple machine learning models
+
+## Blockers / Risks
+- Handling missing and noisy data
+- Formatting numerical columns correctly
+- Debugging preprocessing warnings and errors
+- Selecting suitable models to improve accuracy
+
+## Files in This Folder
+- day03p1.ipynb
+- day03p2.ipynb
+- loan_data.csv
+- quikr_car.csv
+- README.md
+
+## Result
+Successfully built and evaluated machine learning models and generated reliable predictions for loan approval and car price estimation.
+
