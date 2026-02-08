@@ -126,3 +126,56 @@ To practice real-world machine learning workflows by working on multiple dataset
 ## Result
 Successfully built and evaluated machine learning models and generated reliable predictions for loan approval and car price estimation.
 
+
+## Day-04
+
+# Data Science Internship – Day 04
+
+## Objective
+To apply data preprocessing, exploratory data analysis, and machine learning techniques on a new dataset to build an effective predictive model.
+
+## Work Done
+- Loaded and explored the dataset
+- Performed data cleaning and handled missing values
+- Conducted exploratory data analysis to understand feature relationships
+- Encoded categorical variables and formatted numerical columns
+- Selected relevant features for modeling
+- Split the dataset into training and testing sets
+- Trained machine learning models
+- Evaluated model performance using appropriate metrics
+- Generated predictions and saved the results
+
+## Skills Used
+- Python
+- Pandas
+- NumPy
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Scikit-learn
+- Machine Learning Models
+- Model Evaluation
+- Jupyter Notebook
+
+## Learning / Outcomes
+- Improved understanding of handling real-world datasets
+- Strengthened preprocessing and feature engineering skills
+- Gained hands-on experience in training and evaluating models
+- Built a complete end-to-end machine learning workflow
+- Successfully generated predictions from the trained model
+
+## Blockers / Risks
+- Handling missing or inconsistent values in the dataset
+- Selecting the most relevant features for better performance
+- Debugging preprocessing and model-related issues
+- Improving model accuracy through experimentation
+
+## Files in This Folder
+- day04.ipynb
+- dataset.csv
+- predictions.csv
+- README.md
+
+## Result
+Successfully developed and evaluated a machine learning model and generated reliable predictions for the given dataset.
+
